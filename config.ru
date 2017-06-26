@@ -226,7 +226,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift Fred.  You made this Sooooo Easy!  BKFS!</h1>
+            <h1>Welcome to your Ruby application on OpenShift Maz.  I need 5 pods minimum for this one page  BKFS!</h1>
           </hgroup>
 
 
